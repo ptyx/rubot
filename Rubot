@@ -1,0 +1,6 @@
+# Logfile created on 2013-11-10 08:57:04 -0800 by logger.rb/36483
+I, [2013-11-10T08:57:04.354176 #97768]  INFO -- : Any log
+I, [2013-11-10T08:58:00.850699 #97780]  INFO -- : Any log
+I, [2013-11-10T08:58:01.324829 #97781]  INFO -- : Discovered API endpoint: 192.168.1.68
+I, [2013-11-10T08:58:45.580906 #97792]  INFO -- : Any log
+I, [2013-11-10T08:58:46.048792 #97793]  INFO -- : Discovered API endpoint: 192.168.1.68
